@@ -1,6 +1,9 @@
 Model Training Data Readme
 This repository contains the Python code and a detailed presentation for the development of a classified machine learning model. Unfortunately, we are unable to share the actual training data used for the model due to classification restrictions and security concerns. This document serves to provide information about the contents of this repository and guide you through the process.
 
+Project Overview
+The primary objective of this project was to develop a machine learning model that predicts the survival outcome of patients. The model was trained on an optimal number of variables carefully selected to determine whether a patient is likely to survive or die.
+
 Repository Contents
 code directory:
 This directory contains the Python code used to develop and train the machine learning model. The code includes data preprocessing, model architecture, training, evaluation, and inference components. You can review, modify, and use this code as a reference for creating your own models.
