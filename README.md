@@ -27,10 +27,3 @@ We appreciate your understanding regarding the limitations on sharing the classi
 Best regards,
 Muhammad Zohaib Akhtar
 Student at KIT (Karachi Institute of Technology)
-
-
-
-
-
-Regenerate
-
